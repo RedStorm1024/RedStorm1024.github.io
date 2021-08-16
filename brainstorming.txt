@@ -1,0 +1,33 @@
+limited purchases, when you used them all you prestige and gain more or less currency depending on how well you used the resources
+
+first prestige the balance doesn't really allow for decision making but as you buy prestige upgrades choice will be more important
+
+you're in a supermarket and wanna escape, you need to buy stuff in order to run out of it faster but you have a limited amount of space so you can't just buy everything
+
+3 types of upgrades, money making, running speed and endurance (same upgrade limit shared, endurance so that you can't just escape the supermarket in the first prestige by waiting 2 days)
+
+when you're out of upgrades you get the option to prestige and restart with a boost
+
+the supermarket has a set size, when you ran far enough you escape it and then either it's the end or i find something else to do
+
+UPGRADES (base of 20 upgrades limit):
+
+(When you reach distance milestones, unlocks new stores where you can buy more upgrades)
+
+required: 0m
+
+$10, start generating money (1$/s)
+$20, start moving (1m/s)
+
+required: 10m
+
+$20, ×1.5$/s, repeatable, ×2 cost scaling
+$50, ×1.5s max endurance (doesn't give endurance), repeatable, ×2 cost scaling
+$100, fill endurance (doesn't give endurance), repeatable, ??? cost scaling
+
+required: 50m
+
+$250, ×2 speed, repeatable, ×5 cost scaling
+
+
+When you used all your upgrades, unlocks prestige (resets for 1 bag space + prestige points depending on how far you got)

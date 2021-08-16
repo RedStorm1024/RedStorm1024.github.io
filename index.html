@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html>
+    <head>
+        <title>Run out of the mall</title>
+    </head>
+    <body>
+
+        <div id="stats">
+            <div id="leftStats">
+                <p id="money" class="text">
+                    You have
+                    <span id="moneyAmount" class="amount">$10</span>
+                    money
+                </p>
+                <p id="moneyGenerated" class="text">
+                    You're generating
+                    <span id="moneyGeneratedAmount" class="amount">$0</span>
+                    per second
+                </p>
+            </div>
+            <div id="prestigeButtonSpace">
+                <button id="prestigeButton" class="prestigeButtonUnaffoardable">Prestige</button>
+            </div>
+            <div id="rightStats">
+                <p id="distance" class="text">
+                    You ran
+                    <span id="distanceAmount" class="amount">0 m</span>
+                    so far
+                </p>
+                <p id="speed" class="text">
+                    You have a speed of
+                    <span id="speedAmount" class="amount">0 m/s</span>
+                </p>
+                <p id="endurance" class="text">
+                    You have
+                    <span id="enduranceAmount" class="amount">0/10 s</span>
+                    of endurance left
+                </p>
+            </div>
+        </div>
+
+        <div id="tabs">
+
+        </div>
+
+        <div id="bagSpace">
+            <p class="text">
+                You have <span id="spaceAmount" class="amount">10/10</span> space left in your bag
+            </p>
+        </div>
+
+        <div id="upgrades" class="tab">
+
+            <button id="upgrade0" class="upgradeUnaffoardable"></button>
+            <button id="upgrade1" class="upgradeUnaffoardable"></button>
+            <button id="upgrade2" class="upgradeUnaffoardable"></button>
+            <button id="upgrade3" class="upgradeUnaffoardable"></button>
+            <button id="upgrade4" class="upgradeUnaffoardable"></button>
+            <button id="upgrade5" class="upgradeUnaffoardable"></button>
+
+        </div>
+
+        <div id="milestones">
+            <p id="nextShopDistance" class="text"></p>
+        </div>
+
+    </body>
+</html>
+<link rel="stylesheet" href="style.css">
+<script src="break_infinity.js"></script>
+<script src="upgrade.js"></script>
+<script src="main.js"></script>
